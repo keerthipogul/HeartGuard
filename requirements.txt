@@ -1,0 +1,9 @@
+streamlit
+scikit-learn==1.8.0
+xgboost
+lightgbm
+torch
+shap
+pandas
+numpy
+matplotlib
